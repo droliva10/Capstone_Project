@@ -1,5 +1,5 @@
 #**Project 2**
-# **Capstone Engagement**
+# **Webserver Vulnerabilities**
 
 In this project, I am working on a Red vs. Blue Team scenario in which I played the role of both pentester and SOC analyst.
 
